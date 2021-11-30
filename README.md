@@ -1,6 +1,6 @@
 <h1 align="center"> xGitGuard </h1>
 
-<p align="center">AI based Secrets Detection Python Framework<br> 
+<p align="center">AI-based Secrets Detection Python Framework<br> 
 <i><b>Detect Secrets (API tokens, Username, Passwords, etc.) exposed on GitHub Repos</b></i><br>
 Designed and Developed by Comcast Cybersecurity Research and Development Team</p>
 
