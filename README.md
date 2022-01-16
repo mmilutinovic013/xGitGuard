@@ -390,7 +390,7 @@ python public_cred_detections.py -p "abc.xyz.com" -s "password" -e "py" -t Yes -
 
 ```
 # Run for given Primary Keyword, Secondary Keyword and extension without training
-python public_cred_detections.py -p "abc.xyz.com" -s "password" -e "py
+python public_cred_detections.py -p "abc.xyz.com" -s "password" -e "py"
 ```
 
 ```
